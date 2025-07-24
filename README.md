@@ -77,7 +77,8 @@ Ensure you have Java 21 and Maven installed.
 
 Clone the repository:
 
-git clone https://github.com/your-username/github-repo-aggregator.git
+git clone git clone https://github.com/BKfsG/github-repo-aggregator.git
+
 Navigate to the project folder and run:
 
 mvn spring-boot:run
